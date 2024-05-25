@@ -1,0 +1,2 @@
+# squarefortest
+squaring input number
